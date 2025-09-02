@@ -1,0 +1,94 @@
+[
+  {
+    "name": "_ym_uid",
+    "value": "1755896898291957914",
+    "domain": ".alkoteka.com",
+    "path": "/",
+    "expires": 1787432898,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ym_d",
+    "value": "1755896898",
+    "domain": ".alkoteka.com",
+    "path": "/",
+    "expires": 1787432898,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "alkoteka_geo",
+    "value": "true",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1787432909,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "alkoteka_cookies",
+    "value": "true",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1787434403,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "alkoteka_locality",
+    "value": "%7B%22uuid%22%3A%224a70f9e0-46ae-11e7-83ff-00155d026416%22%2C%22name%22%3A%22%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%22%2C%22slug%22%3A%22krasnodar%22%2C%22longitude%22%3A%2238.975996%22%2C%22latitude%22%3A%2245.040216%22%2C%22accented%22%3Atrue%7D",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1788169644,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ym_isad",
+    "value": "2",
+    "domain": ".alkoteka.com",
+    "path": "/",
+    "expires": 1756705563,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ym_visorc",
+    "value": "w",
+    "domain": ".alkoteka.com",
+    "path": "/",
+    "expires": 1756635363,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "alkoteka_age_confirm",
+    "value": "true",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1756719968,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6IkVRVmlSTzhlTG1QS3JOWXlWYWZMU2c9PSIsInZhbHVlIjoiRlZuY20wSFNCZHRvWHQzT0E2TnpnM2s5VXpXcFVtTlpUVWtNUTZTUHR3ZWwzcmxYKytsNGhjOVJCekJPVXYwSkVFakg3UWh1WUFLYUkwRWpSTkRveWZHZDBCNXc1NTZIcTRTL2gzcjhUUFlQc2IrVzE2N3BLazNKYk95bWtjbnoiLCJtYWMiOiJlMTYzYTRjZGMxOTc4Mzk2YWIxMDMzNjJkODZmZGE3MjQwZWU4ZjYzNTE1NTA3NjlmMjQzNzQwNzM1ZGNjMWYxIiwidGFnIjoiIn0%3D",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1761817641.852147,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sid",
+    "value": "eyJpdiI6IlVtTEd3TmF4R2lodksvR0xHUHRqR1E9PSIsInZhbHVlIjoiR3V0cUxsanJWdTRMcGhVZzhudmNHalpPNDdzMWxHb05nMnpXYUZOTHZFK2oxSEp1ekF2ZHRPcm8wU3IzL0Zob1VSY0ZJaGVFenZqa2U0WXhYOHJ6a29lOGFDNFpXR080ZUZ2bXlsTitVZmJoakppZyt0aFIwK1A3U1V0ZmJoL20iLCJtYWMiOiI2NzkwNDk3ODM5OWM5MDg2ZWVhYzI5Mzg5ZGFlYWVlN2RjYTgwMTg2MjE5YzNmMTYzM2Q4NThlNmJkMzE1MGM1IiwidGFnIjoiIn0%3D",
+    "domain": "alkoteka.com",
+    "path": "/",
+    "expires": 1761817641.852688,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
